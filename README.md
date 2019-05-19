@@ -8,9 +8,12 @@ This repository contains **Jupyter Notebooks** that are designed to run on [**Go
 
 ## Contents
 
-1. Introduction and Normal Distribution [WIP]
-2. Special Distributions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/ProbStats-with-TFP/blob/master/02_Special_Distributions.ipynb)
-3. Bayesian Approach to Coin-flip [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/ProbStats-with-TFP/blob/master/03_Bayesian_Coin_Flip.ipynb)
+| S/N  | Notebook Title | Link |
+| ---- | ------------------------------------ | ---- |
+| 01   | Introduction and Normal Distribution | WIP  |
+| 02   | Special Distributions                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/ProbStats-with-TFP/blob/master/02_Special_Distributions.ipynb)|
+| 03   | Bayesian Approach to Coin-flip       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/ProbStats-with-TFP/blob/master/03_Bayesian_Coin_Flip.ipynb)|
+| 04   | WIP                                  | WIP|
 
 **Local Install**
 
