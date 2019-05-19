@@ -6,7 +6,7 @@ This project is conceptualised to supplement ISTD [50.034 (Introduction to Proba
 
 This repository contains [**Jupyter Notebooks**](https://jupyter.org/) that are designed to run on [**Google Colaboratory**](https://colab.research.google.com/), a free Jupyter environment that runs in the cloud. This means that there's nothing to install on your computer!
 
-Most of the code here will utilise the [**TensorFlow Probability**](https://www.tensorflow.org/probability) library. If you're viewing the Notebook on Colab, there's nothing you have to worry about! Everything you need is already configured.
+Most of the code here will utilise the [**TensorFlow Probability**](https://www.tensorflow.org/probability) library. If you're viewing the Notebook on Colab, there's nothing you have to worry about since everything you need is already configured.
 
 ## Contents
 
@@ -17,6 +17,10 @@ Most of the code here will utilise the [**TensorFlow Probability**](https://www.
 | 03  | Bayesian Approach to Coin-flip       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/ProbStats-with-TFP/blob/master/03_Bayesian_Coin_Flip.ipynb)|
 | 04  | Sampling from Distributions          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/ProbStats-with-TFP/blob/master/04_Sampling_Distributions.ipynb)|
 | 05  | WIP                                  | WIP|
+
+**What's in the Notebooks**
+
+Most of the notebooks contain concise explanations of key concepts, as well as visualisations. You will be able to interact with the visualisations using sliders to see the effect of varying parameters.
 
 **Local Install**
 
