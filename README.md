@@ -15,7 +15,8 @@ Most of the code here will utilise the [**TensorFlow Probability**](https://www.
 | 01  | Introduction and Normal Distribution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/ProbStats-with-TFP/blob/master/01_Intro_Normal_Distributions.ipynb)  |
 | 02  | Special Distributions                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/ProbStats-with-TFP/blob/master/02_Special_Distributions.ipynb)|
 | 03  | Bayesian Approach to Coin-flip       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/ProbStats-with-TFP/blob/master/03_Bayesian_Coin_Flip.ipynb)|
-| 04  | WIP                                  | WIP|
+| 04  | Sampling from Distributions          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/ProbStats-with-TFP/blob/master/04_Sampling_Distributions.ipynb)|
+| 05  | WIP                                  | WIP|
 
 **Local Install**
 
