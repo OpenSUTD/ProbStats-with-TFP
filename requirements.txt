@@ -1,0 +1,6 @@
+jupyter
+notebook
+scikit-learn
+matplotlib
+numpy
+tensorflow-probability
