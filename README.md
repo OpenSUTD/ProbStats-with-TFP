@@ -18,9 +18,13 @@ Most of the code here will utilise the [**TensorFlow Probability**](https://www.
 | 04  | Sampling from Distributions          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenSUTD/ProbStats-with-TFP/blob/master/04_Sampling_Distributions.ipynb)|
 | 05  | WIP                                  | WIP|
 
+Do note that you'll get Colab's usual warning about running an untrusted notebook. That is expected behavior for opening a third-party notebook on Colab. Just click past that.
+
 **What's in the Notebooks**
 
 Most of the notebooks contain concise explanations of key concepts, as well as visualisations. You will be able to interact with the visualisations using sliders to see the effect of varying parameters.
+
+![slider_gif](assets/slider_gif.gif)
 
 **Local Install**
 
@@ -41,6 +45,10 @@ jupyter notebook
 ## Contributing
 
 Any relevant contributions are welcome! Feel free to open a pull request. 
+
+**How To Contribute**
+
+You can fork this repository into your own GitHub account, then clone it into your Google Drive folder on your local computer. This way, you'll be able to push commits to your own fork, and submit a Pull Request to this repository.
 
 **Simple Requirements**
 
